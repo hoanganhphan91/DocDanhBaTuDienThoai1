@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import vn.edu.topica.model.Contact;
+import com.example.docdanhbatudienthoai.topica.model.Contact;
 
 
 public class SmsActivity extends AppCompatActivity {

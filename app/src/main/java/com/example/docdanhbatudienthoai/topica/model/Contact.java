@@ -1,4 +1,4 @@
-package vn.edu.topica.model;
+package com.example.docdanhbatudienthoai.topica.model;
 
 import java.io.Serializable;
 

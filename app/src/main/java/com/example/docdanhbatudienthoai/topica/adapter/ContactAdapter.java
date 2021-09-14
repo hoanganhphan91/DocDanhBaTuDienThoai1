@@ -1,4 +1,4 @@
-package vn.edu.topica.adapter;
+package com.example.docdanhbatudienthoai.topica.adapter;
 
 import android.Manifest;
 import android.app.Activity;
@@ -22,7 +22,7 @@ import com.example.docdanhbatudienthoai.SmsActivity;
 
 import java.util.List;
 
-import vn.edu.topica.model.Contact;
+import com.example.docdanhbatudienthoai.topica.model.Contact;
 
 
 public class ContactAdapter extends ArrayAdapter {

@@ -11,8 +11,8 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-import vn.edu.topica.adapter.ContactAdapter;
-import vn.edu.topica.model.Contact;
+import com.example.docdanhbatudienthoai.topica.adapter.ContactAdapter;
+import com.example.docdanhbatudienthoai.topica.model.Contact;
 
 public class DanhBaActivity extends AppCompatActivity {
     ListView lvDanhBa;
